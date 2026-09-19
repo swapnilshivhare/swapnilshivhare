@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swapnil Shivhare</h1>
 
 <p align="center">
-  <b>Software Architect</b> · 20 years building distributed systems<br/>
+  <b>Software Engineer/Architect</b> · 20 years building distributed systems<br/>
   Java · Spring Boot · Microservices · Kafka · Cloud · AI
 </p>
 
