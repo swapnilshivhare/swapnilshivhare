@@ -20,7 +20,7 @@ I design and build systems that have to stay up, scale out, and stay maintainabl
 - 🏢 Worked at **SUBARU**, **Nasdaq**, **Walmart Global Tech**, **Vanguard**, **Hewlett-Packard** and **DEll**
 - 🌐 Domain experience across **automotive, fintech, healthcare/insurance, retail, and cloud infrastructure**
 - 🤝 Big believer in Agile, clean architecture, and mentoring engineers
-- 📍 Based between **Indianapolis, IN** and **Chicago, IL**
+- 📍 Based between **United States**
 
 ---
 
